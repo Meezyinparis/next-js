@@ -32,4 +32,4 @@
 - Error components have to be a client component to send the error messages on the client side.
 - We need to create a Global Error component for the rootlayout
 - HTML: page files HTTP Requests: route files
-  
+- Zed helps me to validate JSON$ Object.
