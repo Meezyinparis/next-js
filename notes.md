@@ -37,3 +37,4 @@
 ## Prisma
 - `npx prisma migrate dev` for SQL
 - `npx prisma db push` for NoSQL
+- migrations help you keeping tracks of db updates
