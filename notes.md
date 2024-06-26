@@ -33,3 +33,7 @@
 - We need to create a Global Error component for the rootlayout
 - HTML: page files HTTP Requests: route files
 - Zed helps me to validate JSON$ Object.
+---
+## Prisma
+- `npx prisma migrate dev` for SQL
+- `npx prisma db push` for NoSQL
