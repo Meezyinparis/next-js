@@ -15,7 +15,6 @@ export async function GET(request: NextRequest) {
 
 export async function POST(request: NextRequest) {
   // Validate
-
   const body = await request.json();
   const validation = schema.safeParse(body);
 
