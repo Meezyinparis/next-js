@@ -13,6 +13,7 @@
     "autoprefixer": "^10.4.19",
     "fast-sort": "^3.4.0",
     "next": "14.2.4",
+    "next-auth": "^5.0.0-beta.19",
     "next-cloudinary": "^6.6.2",
     "prisma": "^5.16.0",
     "react": "^18",

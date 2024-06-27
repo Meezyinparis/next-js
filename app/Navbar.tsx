@@ -14,6 +14,9 @@ const Navbar = () => {
           <li>
             <Link href="/users">Users</Link>
           </li>
+          <li>
+            <Link href={"/api/auth/signin"}>Login</Link>
+          </li>
         </ul>
       </div>
     </div>

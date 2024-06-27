@@ -3,7 +3,14 @@ import { useRouter } from "next/navigation";
 import React from "react";
 
 const NewUserPage = () => {
-  return <div>allo</div>;
+  const router = useRouter();
+
+  return (
+    <button
+      className="btn btn-primary"
+      onClick={() => router.push("/users")}
+    ></button>
+  );
 };
 
 export default NewUserPage;
